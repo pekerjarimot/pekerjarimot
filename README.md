@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pekerjarimot
-- 👀 I’m interested in Learning and Teaching something in **Pekerjarimot Youtube Channel**
+- 👀 I’m interested in Learning and Teaching something in [Pekerjarimot YT Channel](https://youtube.com/c/pekerjarimot "Bantun pemula belajar pemrograman website sesuai studi kasus nyata")
 - 🌱 I’m currently learning ReactJS and React Native now
 - 📫 Reach me at pekerjarimot@gmail.com
 
